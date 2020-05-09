@@ -1,0 +1,30 @@
+﻿@model paysky.Model.RegisterViewModel
+
+        <div id="login-body">
+            <div class="c50 white-bg">
+                <div class="login-welcome">
+                    Welcome To <strong class="seconde-color">Company Name</strong>
+                </div>
+                <div class="login-description">
+                    Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+                </div>
+                <div class="divider"></div>
+                <div class="login-form">
+                    <h1 class="login-title">Sign in to your account</h1>
+                    <form asp-action="Login">
+                        <div class="form-group">
+                            <input type="text" asp-for="UserName" class="form-control login-custom-form" name="" placeholder="Username">
+                        </div>
+                        <div class="form-group">
+                            <input type="password" asp-for="Password" class="form-control login-custom-form" name="" placeholder="Password">
+                        </div>
+                        <div class="form-group form-check">
+                            <input type="checkbox" class="form-check-input" id="exampleCheck1">
+                            <label class="form-check-label" for="exampleCheck1">Remember me?</label>
+                        </div>
+                        <input type="submit" class="btn btn-rised white btn-lg login-custom-btn" name="" value="Login">
+                    </form>
+                </div>
+            </div>
+            <div class="clear"></div>
+        </div>

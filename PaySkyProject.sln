@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PaySkyProject.Web", "PaySkyProject.Web\PaySkyProject.Web.csproj", "{33A251B5-0B80-423F-A8A6-0A4A065CF043}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PaySkyProject.Data", "PaySkyProject.Data\PaySkyProject.Data.csproj", "{CBBA7280-06B8-4123-A1D2-D8C5FF131467}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PaySkyProject.Model", "PaySkyProject.Model\PaySkyProject.Model.csproj", "{6B96E5B1-AC26-4873-9ECD-10A8628E081C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PaySkyProject.Service", "PaySkyProject.Service\PaySkyProject.Service.csproj", "{5E97EB7A-3EF2-4BBA-85A7-ADEB61CA86A5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PaySkyProject.Gateway", "PaySkyProject.Gateway\PaySkyProject.Gateway.csproj", "{8A4D7574-851C-4FE9-A669-34E8154286CC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PaySkyProject.Security", "PaySkyProject.Security\PaySkyProject.Security.csproj", "{5F7AB0BB-78CF-4D4D-8EF8-72C1E7C2A3DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{33A251B5-0B80-423F-A8A6-0A4A065CF043}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33A251B5-0B80-423F-A8A6-0A4A065CF043}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33A251B5-0B80-423F-A8A6-0A4A065CF043}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33A251B5-0B80-423F-A8A6-0A4A065CF043}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CBBA7280-06B8-4123-A1D2-D8C5FF131467}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBBA7280-06B8-4123-A1D2-D8C5FF131467}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBBA7280-06B8-4123-A1D2-D8C5FF131467}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBBA7280-06B8-4123-A1D2-D8C5FF131467}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B96E5B1-AC26-4873-9ECD-10A8628E081C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B96E5B1-AC26-4873-9ECD-10A8628E081C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B96E5B1-AC26-4873-9ECD-10A8628E081C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B96E5B1-AC26-4873-9ECD-10A8628E081C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E97EB7A-3EF2-4BBA-85A7-ADEB61CA86A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E97EB7A-3EF2-4BBA-85A7-ADEB61CA86A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E97EB7A-3EF2-4BBA-85A7-ADEB61CA86A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E97EB7A-3EF2-4BBA-85A7-ADEB61CA86A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A4D7574-851C-4FE9-A669-34E8154286CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A4D7574-851C-4FE9-A669-34E8154286CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A4D7574-851C-4FE9-A669-34E8154286CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A4D7574-851C-4FE9-A669-34E8154286CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F7AB0BB-78CF-4D4D-8EF8-72C1E7C2A3DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F7AB0BB-78CF-4D4D-8EF8-72C1E7C2A3DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F7AB0BB-78CF-4D4D-8EF8-72C1E7C2A3DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F7AB0BB-78CF-4D4D-8EF8-72C1E7C2A3DC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {51A75D26-EDDD-4069-B652-7075DD59529C}
+	EndGlobalSection
+EndGlobal

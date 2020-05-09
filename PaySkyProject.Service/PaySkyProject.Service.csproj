@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\PaySkyProject.Data\PaySkyProject.Data.csproj" />
+    <ProjectReference Include="..\PaySkyProject.Model\PaySkyProject.Model.csproj" />
+  </ItemGroup>
+
+</Project>

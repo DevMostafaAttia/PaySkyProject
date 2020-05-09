@@ -1,0 +1,10 @@
+C:\Users\mattia\source\repos\PaySkyProject\PaySkyProject.Gateway\bin\PaySkyProject.Gateway.dll.config
+C:\Users\mattia\source\repos\PaySkyProject\PaySkyProject.Gateway\bin\PaySkyProject.Gateway.dll
+C:\Users\mattia\source\repos\PaySkyProject\PaySkyProject.Gateway\bin\PaySkyProject.Gateway.pdb
+C:\Users\mattia\source\repos\PaySkyProject\PaySkyProject.Gateway\obj\Debug\PaySkyProject.Gateway.csprojAssemblyReference.cache
+C:\Users\mattia\source\repos\PaySkyProject\PaySkyProject.Gateway\obj\Debug\PaySkyProject.Gateway.csproj.CoreCompileInputs.cache
+C:\Users\mattia\source\repos\PaySkyProject\PaySkyProject.Gateway\obj\Debug\PaySkyProject.Gateway.dll
+C:\Users\mattia\source\repos\PaySkyProject\PaySkyProject.Gateway\obj\Debug\PaySkyProject.Gateway.pdb
+C:\Users\mattia\source\repos\PaySkyProject\PaySkyProject.Gateway\bin\Newtonsoft.Json.dll
+C:\Users\mattia\source\repos\PaySkyProject\PaySkyProject.Gateway\bin\Newtonsoft.Json.xml
+C:\Users\mattia\source\repos\PaySkyProject\PaySkyProject.Gateway\obj\Debug\PaySkyProject.Gateway.csproj.CopyComplete

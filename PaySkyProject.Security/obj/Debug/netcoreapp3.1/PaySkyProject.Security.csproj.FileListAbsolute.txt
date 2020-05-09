@@ -1,0 +1,9 @@
+C:\Users\mattia\source\repos\PaySkyProject\PaySkyProject.Security\bin\Debug\netcoreapp3.1\PaySkyProject.Security.deps.json
+C:\Users\mattia\source\repos\PaySkyProject\PaySkyProject.Security\bin\Debug\netcoreapp3.1\PaySkyProject.Security.dll
+C:\Users\mattia\source\repos\PaySkyProject\PaySkyProject.Security\bin\Debug\netcoreapp3.1\PaySkyProject.Security.pdb
+C:\Users\mattia\source\repos\PaySkyProject\PaySkyProject.Security\obj\Debug\netcoreapp3.1\PaySkyProject.Security.csprojAssemblyReference.cache
+C:\Users\mattia\source\repos\PaySkyProject\PaySkyProject.Security\obj\Debug\netcoreapp3.1\PaySkyProject.Security.csproj.CoreCompileInputs.cache
+C:\Users\mattia\source\repos\PaySkyProject\PaySkyProject.Security\obj\Debug\netcoreapp3.1\PaySkyProject.Security.AssemblyInfoInputs.cache
+C:\Users\mattia\source\repos\PaySkyProject\PaySkyProject.Security\obj\Debug\netcoreapp3.1\PaySkyProject.Security.AssemblyInfo.cs
+C:\Users\mattia\source\repos\PaySkyProject\PaySkyProject.Security\obj\Debug\netcoreapp3.1\PaySkyProject.Security.dll
+C:\Users\mattia\source\repos\PaySkyProject\PaySkyProject.Security\obj\Debug\netcoreapp3.1\PaySkyProject.Security.pdb

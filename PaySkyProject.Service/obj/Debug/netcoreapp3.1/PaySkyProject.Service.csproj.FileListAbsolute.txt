@@ -1,0 +1,14 @@
+C:\Users\mattia\source\repos\PaySkyProject\PaySkyProject.Service\bin\Debug\netcoreapp3.1\PaySkyProject.Service.deps.json
+C:\Users\mattia\source\repos\PaySkyProject\PaySkyProject.Service\bin\Debug\netcoreapp3.1\PaySkyProject.Service.dll
+C:\Users\mattia\source\repos\PaySkyProject\PaySkyProject.Service\bin\Debug\netcoreapp3.1\PaySkyProject.Service.pdb
+C:\Users\mattia\source\repos\PaySkyProject\PaySkyProject.Service\obj\Debug\netcoreapp3.1\PaySkyProject.Service.csprojAssemblyReference.cache
+C:\Users\mattia\source\repos\PaySkyProject\PaySkyProject.Service\obj\Debug\netcoreapp3.1\PaySkyProject.Service.csproj.CoreCompileInputs.cache
+C:\Users\mattia\source\repos\PaySkyProject\PaySkyProject.Service\obj\Debug\netcoreapp3.1\PaySkyProject.Service.AssemblyInfoInputs.cache
+C:\Users\mattia\source\repos\PaySkyProject\PaySkyProject.Service\obj\Debug\netcoreapp3.1\PaySkyProject.Service.AssemblyInfo.cs
+C:\Users\mattia\source\repos\PaySkyProject\PaySkyProject.Service\obj\Debug\netcoreapp3.1\PaySkyProject.Service.dll
+C:\Users\mattia\source\repos\PaySkyProject\PaySkyProject.Service\obj\Debug\netcoreapp3.1\PaySkyProject.Service.pdb
+C:\Users\mattia\source\repos\PaySkyProject\PaySkyProject.Service\bin\Debug\netcoreapp3.1\PaySkyProject.Data.dll
+C:\Users\mattia\source\repos\PaySkyProject\PaySkyProject.Service\bin\Debug\netcoreapp3.1\PaySkyProject.Model.dll
+C:\Users\mattia\source\repos\PaySkyProject\PaySkyProject.Service\bin\Debug\netcoreapp3.1\PaySkyProject.Data.pdb
+C:\Users\mattia\source\repos\PaySkyProject\PaySkyProject.Service\bin\Debug\netcoreapp3.1\PaySkyProject.Model.pdb
+C:\Users\mattia\source\repos\PaySkyProject\PaySkyProject.Service\obj\Debug\netcoreapp3.1\PaySkyProject.Service.csproj.CopyComplete

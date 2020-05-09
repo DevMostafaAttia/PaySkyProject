@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "hKw9FJISb5x37NMd/g/uJKImiSLENEIq/6G7VFDwR7I0w03O947gyrzhrrM08Gl1mX0PgMSMhpmqxJ7khJhY4A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mattia\\source\\repos\\PaySkyProject\\PaySkyProject.Model\\PaySkyProject.Model.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mattia\\.nuget\\packages\\fluentvalidation\\8.6.2\\fluentvalidation.8.6.2.nupkg.sha512",
+    "C:\\Users\\mattia\\.nuget\\packages\\system.componentmodel.annotations\\4.4.1\\system.componentmodel.annotations.4.4.1.nupkg.sha512"
+  ],
+  "logs": []
+}

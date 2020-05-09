@@ -1,0 +1,9 @@
+C:\Users\mattia\source\repos\PaySkyProject\PaySkyProject.Model\bin\Debug\netcoreapp3.1\PaySkyProject.Model.deps.json
+C:\Users\mattia\source\repos\PaySkyProject\PaySkyProject.Model\bin\Debug\netcoreapp3.1\PaySkyProject.Model.dll
+C:\Users\mattia\source\repos\PaySkyProject\PaySkyProject.Model\bin\Debug\netcoreapp3.1\PaySkyProject.Model.pdb
+C:\Users\mattia\source\repos\PaySkyProject\PaySkyProject.Model\obj\Debug\netcoreapp3.1\PaySkyProject.Model.AssemblyInfoInputs.cache
+C:\Users\mattia\source\repos\PaySkyProject\PaySkyProject.Model\obj\Debug\netcoreapp3.1\PaySkyProject.Model.AssemblyInfo.cs
+C:\Users\mattia\source\repos\PaySkyProject\PaySkyProject.Model\obj\Debug\netcoreapp3.1\PaySkyProject.Model.dll
+C:\Users\mattia\source\repos\PaySkyProject\PaySkyProject.Model\obj\Debug\netcoreapp3.1\PaySkyProject.Model.pdb
+C:\Users\mattia\source\repos\PaySkyProject\PaySkyProject.Model\obj\Debug\netcoreapp3.1\PaySkyProject.Model.csproj.CoreCompileInputs.cache
+C:\Users\mattia\source\repos\PaySkyProject\PaySkyProject.Model\obj\Debug\netcoreapp3.1\PaySkyProject.Model.csprojAssemblyReference.cache
